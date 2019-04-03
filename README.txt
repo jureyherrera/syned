@@ -15,3 +15,5 @@ syned is pip installable (https://pip.pypa.io/), simply run::
 
 to install it.
 
+This is a test
+
